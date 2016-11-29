@@ -1,0 +1,70 @@
+{
+  "author": {
+    "name": "Mike Smathers",
+    "email": "msmathers@narrativescience.com"
+  },
+  "bin": {
+    "log.io-server": "./bin/log.io-server",
+    "log.io-harvester": "./bin/log.io-harvester"
+  },
+  "contributors": [
+    {
+      "name": "Mike Smathers",
+      "email": "msmathers@narrativescience.com"
+    }
+  ],
+  "dependencies": {
+    "backbone": "*",
+    "express": "*",
+    "jquery": "*",
+    "socket.io": "^1.7.0",
+    "socket.io-client": "^1.7.0",
+    "underscore": "*",
+    "winston": "*"
+  },
+  "description": "Realtime log monitoring in your browser",
+  "devDependencies": {
+    "browserify": "*",
+    "chai": "*",
+    "glob": "^7.1.1",
+    "js-string-escape": "^1.0.1",
+    "jsdom": "^9.8.3",
+    "less": "*",
+    "make-runnable": "^1.0.7",
+    "mocha": "*",
+    "sinon": "*",
+    "sinon-chai": "*",
+    "sleep": "^5.0.0",
+    "sync": "^0.2.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "db949ff0fac46b84ae69947b9bf68b9f7a69b1eb",
+    "tarball": "https://registry.npmjs.org/log.io/-/log.io-0.3.4.tgz"
+  },
+  "gitHead": "9ecd8991eca00e7a31db986ab0873262e4c49c6d",
+  "homepage": "http://logio.org",
+  "keywords": [
+    "logs",
+    "monitoring",
+    "realtime",
+    "socket.io",
+    "node.js",
+    "ajax"
+  ],
+  "maintainers": [
+    {
+      "name": "msmathers",
+      "email": "msmathers@narrativescience.com"
+    }
+  ],
+  "name": "log.io",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+  	"postupdate": "node build.js build",
+    "postinstall": "node build.js configuration",
+    "prepublish": "node build.js build"
+  },
+  "version": "0.3.4"
+}
