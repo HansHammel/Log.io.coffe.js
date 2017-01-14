@@ -1,5 +1,16 @@
 # decaffeinated version
 
+[![Build Status](https://secure.travis-ci.org/HansHammel/Log.io.coffee.js.png?branch=master)](http://travis-ci.org/HansHammel/Log.io.coffee.js)
+[![Inline docs](http://inch-ci.org/github/HansHammel/Log.io.coffee.js.svg?branch=master)](http://inch-ci.org/github/HansHammel/Log.io.coffee.js)
+[![star this repo](http://githubbadges.com/star.svg?user=HansHammel&repo=Log.io.coffee.js&style=flat&color=fff&background=007ec6)](https://github.com/HansHammel/Log.io.coffee.js)
+[![fork this repo](http://githubbadges.com/fork.svg?user=HansHammel&repo=Log.io.coffee.js&style=flat&color=fff&background=007ec6)](https://github.com/HansHammel/Log.io.coffee.js/fork)
+[![david dependency](https://img.shields.io/david/HansHammel/Log.io.coffee.js.svg)](https://david-dm.org/HansHammel/Log.io.coffee.js)
+[![david devDependency](https://img.shields.io/david/dev/HansHammel/Log.io.coffee.js.svg)](https://david-dm.org/HansHammel/Log.io.coffee.js)
+[![david optionalDependency](https://img.shields.io/david/optional/HansHammel/Log.io.coffee.js.svg)](https://david-dm.org/HansHammel/Log.io.coffee.js)
+[![david peerDependency](https://img.shields.io/david/peer/HansHammel/Log.io.coffee.js.svg)](https://david-dm.org/HansHammel/Log.io.coffee.js)
+[![npms score](https://badges.npms.io/Log.io.coffee.js.svg)](https://www.np.coffee.js.com/package/Log.io.coffee.js)
+[![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/Log.io.coffee.js.svg)](https://snyk.io/test/github/HansHammel/Log.io.coffee.js)
+
 Log.io - Real-time log monitoring in your browser
 =================================================
 
