@@ -9,7 +9,7 @@
 [![david optionalDependency](https://img.shields.io/david/optional/HansHammel/Log.io.coffee.js.svg)](https://david-dm.org/HansHammel/Log.io.coffee.js)
 [![david peerDependency](https://img.shields.io/david/peer/HansHammel/Log.io.coffee.js.svg)](https://david-dm.org/HansHammel/Log.io.coffee.js)
 [![npms score](https://badges.npms.io/Log.io.coffee.js.svg)](https://www.np.coffee.js.com/package/Log.io.coffee.js)
-[![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/Log.io.coffee.js.svg)](https://snyk.io/test/github/HansHammel/Log.io.coffee.js)
+[![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/Log.io.coffee.js.svg)](https://snyk.io/test/github/HansHammel/Log.io.coffee.js) [![Greenkeeper badge](https://badges.greenkeeper.io/HansHammel/Log.io.coffe.js.svg)](https://greenkeeper.io/)
 
 Log.io - Real-time log monitoring in your browser
 =================================================
