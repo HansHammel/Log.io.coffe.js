@@ -28,7 +28,7 @@
     "chai": "*",
     "glob": "^7.1.1",
     "js-string-escape": "^1.0.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.0.1",
     "less": "*",
     "make-runnable": "^1.0.7",
     "mocha": "*",
