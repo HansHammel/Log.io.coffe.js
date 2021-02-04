@@ -20,7 +20,8 @@
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "underscore": "*",
-    "winston": "*"
+    "winston": "*",
+    "snyk": "^1.316.1"
   },
   "description": "Realtime log monitoring in your browser",
   "devDependencies": {
@@ -62,9 +63,11 @@
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "scripts": {
-  	"postupdate": "node build.js build",
+    "postupdate": "node build.js build",
     "postinstall": "node build.js configuration",
-    "prepublish": "node build.js build"
+    "prepublish": "npm run snyk-protect && node build.js build",
+    "snyk-protect": "snyk protect"
   },
-  "version": "0.3.4"
+  "version": "0.3.4",
+  "snyk": true
 }
